@@ -104,8 +104,11 @@ Observations:
 http://<PUBLIC-IP>/index.html
 http://<PUBLIC-IP>/app1/index.html
 
+http://44.220.155.104/index.html
+http://44.220.155.104/app1/index.html
+
 # Access metadata.html
-http://<PUBLIC-IP>/app1/metadata.html
+http://44.220.155.104/app1/metadata.html
 ```
 
 ## Step-08: Terraform State - Basics
